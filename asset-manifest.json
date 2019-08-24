@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vita/static/css/main.6ee833e9.chunk.css",
+    "main.js": "/vita/static/js/main.c18dac6c.chunk.js",
+    "main.js.map": "/vita/static/js/main.c18dac6c.chunk.js.map",
+    "runtime~main.js": "/vita/static/js/runtime~main.b9bbd0a0.js",
+    "runtime~main.js.map": "/vita/static/js/runtime~main.b9bbd0a0.js.map",
+    "static/js/2.0c5ceee3.chunk.js": "/vita/static/js/2.0c5ceee3.chunk.js",
+    "static/js/2.0c5ceee3.chunk.js.map": "/vita/static/js/2.0c5ceee3.chunk.js.map",
+    "index.html": "/vita/index.html",
+    "precache-manifest.1585987c7468885af8467f033ba0a593.js": "/vita/precache-manifest.1585987c7468885af8467f033ba0a593.js",
+    "service-worker.js": "/vita/service-worker.js",
+    "static/css/main.6ee833e9.chunk.css.map": "/vita/static/css/main.6ee833e9.chunk.css.map",
+    "static/media/logo.svg": "/vita/static/media/logo.5d5d9eef.svg"
+  }
+}
